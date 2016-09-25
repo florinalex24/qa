@@ -1,1 +1,9 @@
 what to install:
+- firefox, chrome
+- firebug, firepath
+- selenium ide - firefox
+- chromedriver
+- java sdk
+- pip
+- overwriting pythonpath
+- sublime text 2 editor
